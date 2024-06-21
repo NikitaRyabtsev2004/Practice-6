@@ -1,0 +1,12 @@
+{
+    "name": "registration-form",
+    "version": "1.0.0",
+    "description": "Sample registration form project",
+    "main": "index.html",
+    "scripts": {
+      "start": "start index.html"
+    },
+    "author": "",
+    "license": "ISC"
+  }
+  
